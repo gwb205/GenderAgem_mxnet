@@ -36,3 +36,7 @@ data\wiki_train.txt
 使用默认的网络格式，ZQCNN上单线程约7ms一次。
 
 请学习[ZQCNN](https://github.com/zuoqing1988/ZQCNN-v0.0)，然后用mxnet2zqcnn导出（需要手工修改一些东西）
+
+
+
+自己训练时：年龄的mae为7-8，性别准确率为78.5%
